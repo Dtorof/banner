@@ -1,0 +1,4 @@
+<template>
+    <Banner/>
+    <Products/>
+</template>
